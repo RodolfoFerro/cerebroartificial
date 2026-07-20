@@ -23,3 +23,34 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 
 ## Programa
 
+### Día 1 (20/07/2026)
+
+#### 📚 Contenidos
+
+- **Presentación del club**
+    - Presentación del curso ([slides](slides/s1_presentacion_club.pdf))
+- **Introducción al cómputo afectivo** ([slides](slides/s2_computo_afectivo.pdf))
+    - Emociones discretas: modelo de Ekman
+    - Cómputo para el reconocimiento de emociones y sus aplicaciones reales (Oura Ring, asistentes de voz, etc.)
+    - Planteamiento del problema: violencia familiar en México como caso de uso
+    - Motivación del hardware: conociendo el ESP32-S3 y la visión del proyecto final
+- **Fundamentos de Python y herramientas** ([slides](slides/intro-python.pdf))
+    - Variables, tipos de datos y estructuras de control
+    - Bibliotecas clave: NumPy, matplotlib/plotly, librosa
+- **Procesamiento de señales de audio (I)** ([slides](slides/s3_audio_I%20%20-%20%20Reparado.pdf))
+    - ¿Qué es el sonido y cómo se representa digitalmente?
+    - Frecuencia de muestreo y teorema de Nyquist
+    - Transformada de Fourier Rápida (FFT) y espectrogramas
+    - Coeficientes Cepstrales en las Frecuencias de Mel (MFCC)
+    - Preprocesamiento de audio:
+    - Eliminación de ruido (electrónico y no humano)
+    - Balanceo, muestreo y filtrado de datos
+
+> #### 📒 Notebook: Introducción a Python
+> 
+> En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos ejercicios prácticos relacionados al procesamiento de imágenes y canales de color. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
+
+
+
