@@ -46,11 +46,39 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
     - Eliminación de ruido (electrónico y no humano)
     - Balanceo, muestreo y filtrado de datos
 
+> #### 📒 Notebook: Base de señales
+> 
+> En este cuaderno aprenderás un sobre Python, creando un vector que representa una onda de audio y generando el sonido de la misma.
+>
+> [![Base de señales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Base_de_se%C3%B1ales.ipynb)
+
 > #### 📒 Notebook: Introducción a Python
 > 
 > En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos ejercicios prácticos relacionados al procesamiento de imágenes y canales de color. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
 
+### Día 2 (21/07/2026)
 
+#### 📚 Contenidos
+
+- **Procesamiento de señales de audio (I)** ([slides](#))
+    - ¿Qué es el sonido y cómo se representa digitalmente?
+    - Frecuencia de muestreo y teorema de Nyquist
+    - Transformada de Fourier Rápida (FFT) y espectrogramas
+    - Coeficientes Cepstrales en las Frecuencias de Mel (MFCC)
+    - Preprocesamiento de audio:
+    - Eliminación de ruido (electrónico y no humano)
+    - Balanceo, muestreo y filtrado de datos
+- **Redes neuronales para clasificación de señales (I)** ([slides](slides/intro-dl.pdf))
+    - ¿Qué es una red neuronal y cómo aprende?
+    - Componentes principales: perceptrón, capas ocultas y funciones de activación
+    - Entrenamiento: retropropagación y optimización
+    - Implementación en Python y con TensorFlow
+
+> #### 📒 Notebook: Introducción a las redes neuronales artificiales
+> 
+> En este cuaderno aprenderás sobre qué son y cómo operan las neuronas artificiales, desde un contexto histórico, hasta la aplicación de este tipo de modelos para la resolución de problemas interesantes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Introducci%C3%B3n_a_las_redes_neuronales_artificiales.ipynb)
 
