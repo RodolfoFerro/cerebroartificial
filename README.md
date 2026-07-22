@@ -67,14 +67,6 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 
 #### 📚 Contenidos
 
-- **Procesamiento de señales de audio (II)** ([slides](#))
-    - ¿Qué es el sonido y cómo se representa digitalmente?
-    - Frecuencia de muestreo y teorema de Nyquist
-    - Transformada de Fourier Rápida (FFT) y espectrogramas
-    - Coeficientes Cepstrales en las Frecuencias de Mel (MFCC)
-    - Preprocesamiento de audio:
-    - Eliminación de ruido (electrónico y no humano)
-    - Balanceo, muestreo y filtrado de datos
 - **Redes neuronales para clasificación de señales (I)** ([slides](slides/intro-dl.pdf))
     - ¿Qué es una red neuronal y cómo aprende?
     - Componentes principales: perceptrón, capas ocultas y funciones de activación
@@ -86,6 +78,43 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 > En este cuaderno aprenderás sobre qué son y cómo operan las neuronas artificiales, desde un contexto histórico, hasta la aplicación de este tipo de modelos para la resolución de problemas interesantes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Introducci%C3%B3n_a_las_redes_neuronales_artificiales.ipynb)
+
+### Día 3 (22/07/2026)
+
+#### 📚 Contenidos
+
+- **Procesamiento de señales de audio (II)** ([slides](#))
+    - ¿Qué es el sonido y cómo se representa digitalmente?
+    - Frecuencia de muestreo y teorema de Nyquist
+    - Transformada de Fourier Rápida (FFT) y espectrogramas
+    - Coeficientes Cepstrales en las Frecuencias de Mel (MFCC)
+    - Preprocesamiento de audio:
+    - Eliminación de ruido (electrónico y no humano)
+    - Balanceo, muestreo y filtrado de datos
+- **Redes neuronales para clasificación de señales (II)** ([slides](slides/intro-cv.pdf))
+    - Imágenes y operaciones
+    - Redes neuronales convolucionales (CNN):
+        - Max-feature maps, convoluciones, max-pooling, softmax
+        - Arquitecturas: LeNet-5 y LightCNN-9
+    - Implementación en Python y con TensorFlow
+
+> #### 📒 Notebook: Redes neuronales artificiales
+> 
+> En este cuaderno pondremos en práctica el conocimiento de las redes neuronales y aprenderás a utilizar TensorFlow para programar modelos más complejos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Redes neuronales artificiales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Redes_neuronales_artificiales.ipynb)
+
+> #### 📒 Notebook: Redes neuronales convolucionales
+> 
+> En este cuaderno pondremos en práctica el conocimiento de las redes neuronales convolucionales. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Redes neuronales convolucionales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Redes_neuronales_convolucionales.ipynb)
+
+> #### 📒 Notebook: MicroLightCNN Tutorial
+> 
+> En este cuaderno procesaremos el audio y entrenaremos nuestro modelo estrella para utilizar en los circuitos, el modelo `MicroLightCNN`. Aquí pondremos en práctica todos los conocimientos adquiridos sobre el procesamiento de señales.
+>
+> [![Redes neuronales convolucionales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/MicroLightCNN_Tutorial.ipynb)
 
 
 ## Referencias
