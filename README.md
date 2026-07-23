@@ -127,6 +127,11 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 >
 > [![Redes neuronales convolucionales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/MicroLightCNN_Tutorial.ipynb)
 
+<center>
+    <img src="assets/images/espectrograma.png" width="75%">
+</center>
+<br>
+
 ## Referencias
 
 Material para que revises:
