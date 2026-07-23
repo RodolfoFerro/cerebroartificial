@@ -134,6 +134,9 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 
 ## Referencias
 
+Presentaciones:
+- **Link:** [Carpeta de presentaciones](assets/presentations) (Hugo)
+
 Material para que revises:
 - **[Curso de introducción a la programación científica con Python](https://futurelabmx.github.io/cdecmx/):** ¿No has programado antes? ¡No te preocupes! Este curso te dará las bases de programación con Python. El curso se divide en 3 secciones, lo básico lo encontrarás en la sección A. Python, pero será de utilidad en tu carrera como científic@ conocer las otras 2.
 - **[Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course?hl=es-419) por Google:** ¿Ya programas y quieres prepararte aún más? Te recomendamos que vayas echando un vistazo a este curso intensivo sobre Machine Learning. En este curso encontrarás ideas sobre cómo funcionan los modelos de IA en la actualidad, elementos que nos serán de utilidad durante nuestro club.
