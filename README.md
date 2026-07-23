@@ -134,8 +134,14 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 
 ## Referencias
 
-Presentaciones:
-- **Link:** [Carpeta de presentaciones](assets/presentations) (Hugo)
+Presentaciones (Hugo):
+- **Presentación:** [Lecture07_UI_UX](assets/presentations/Lecture07_UI_UX.pdf)
+- **Presentación:** [Lecture08_UI_UX](assets/presentations/Lecture08_UI_UX.pdf)
+- **Presentación:** [Lecture09_UI_UX](assets/presentations/Lecture09_UI_UX.pdf)
+- **Presentación:** [MicroLightCNN_Presentacion](assets/presentations/MicroLightCNN_Presentacion.pdf)
+- **Presentación:** [s2_computo_afectivo](assets/presentations/s2_computo_afectivo.pdf)
+- **Presentación:** [S3_Audio_Procesamiento_Detallado_N](assets/presentations/S3_Audio_Procesamiento_Detallado_N.pdf)
+- **Presentación:** [s5_circuitos](assets/presentations/s5_circuitos.pdf)
 
 Material para que revises:
 - **[Curso de introducción a la programación científica con Python](https://futurelabmx.github.io/cdecmx/):** ¿No has programado antes? ¡No te preocupes! Este curso te dará las bases de programación con Python. El curso se divide en 3 secciones, lo básico lo encontrarás en la sección A. Python, pero será de utilidad en tu carrera como científic@ conocer las otras 2.
