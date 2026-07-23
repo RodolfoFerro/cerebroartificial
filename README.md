@@ -132,6 +132,10 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 </center>
 <br>
 
+> #### 🤖 Material: MicroESP32
+> 
+> [![Static Badge](https://img.shields.io/badge/Descargar%20MicroESP32.zip-8A2BE2)](assets/MicroESP32.zip)
+
 ## Referencias
 
 Presentaciones (Hugo):
