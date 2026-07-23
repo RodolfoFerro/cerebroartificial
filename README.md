@@ -110,12 +110,22 @@ Finalmente, llevaremos estos modelos al mundo físico al implementarlos en dispo
 >
 > [![Redes neuronales convolucionales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/Redes_neuronales_convolucionales.ipynb)
 
+
+### Día 4 (23/07/2026)
+
+#### 📚 Contenidos
+
+- **Proyecto final: Construyendo un Jarvis que escucha el enojo (I)** ([slides](#))
+    - **Fase 1 — Datos:** preparación del dataset
+    - **Fase 2 — Modelo:** entrenamiento, ajuste y evaluación del clasificador
+    - **Fase 3 — Integración:** despliegue del modelo en el ESP32-S3
+    - **Fase 4 — Presentación:** demostración del sistema funcional y comunicación de resultados ante el grupo
+
 > #### 📒 Notebook: MicroLightCNN Tutorial
 > 
 > En este cuaderno procesaremos el audio y entrenaremos nuestro modelo estrella para utilizar en los circuitos, el modelo `MicroLightCNN`. Aquí pondremos en práctica todos los conocimientos adquiridos sobre el procesamiento de señales.
 >
 > [![Redes neuronales convolucionales](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/cerebroartificial/blob/main/notebooks/MicroLightCNN_Tutorial.ipynb)
-
 
 ## Referencias
 
